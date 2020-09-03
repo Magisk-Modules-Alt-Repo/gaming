@@ -12,5 +12,5 @@ Yes, works on all ROMs and on all firmwares.
 × Disclaimer ×
 
 Naturally, you take all the responsibility for what happens to your device when you start messing around with things.
-I (Akira) will not be responsible for ANY damage caused to anyone's devices due to the use of this module.
+I (akira) will not be responsible for ANY damage caused to anyone's devices due to the use of this module.
 
