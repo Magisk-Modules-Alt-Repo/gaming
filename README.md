@@ -1,4 +1,4 @@
-- Gaming Mode | Magisk Module -
+Gaming-Mode | Magisk Module
 - Features -
 - Boost Game Performance When The Game Start
 - Improve Touch Sensitivity
