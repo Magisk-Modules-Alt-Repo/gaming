@@ -1,0 +1,45 @@
+#========================================#
+# GAMING乛Mode
+# Developer : @AkiraSuper
+#========================================#
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+#========================================#
+# Device Spoofing
+#ro.product.model
+#ro.product.manufacturer
+# Miscellaneous
+sys.display-size=3840x2160
+debug.hwui.renderer=skiagl
+debug.kill_allocating_task=0
+debug.performance.tuning=1
+ro.product.gpu.driver=1
+debug.egl.swapinterval=-60
+debug.sqlite.journalmode=WAL
+debug.sqlite.syncmode=1
+# Bluetooth Bitrate
+persist.bt.enableAptXHD=true
+persist.service.btui.use_aptx=1
+persist.vendor.bt.a2dp_offload_cap=sbc-aptx-aptxtws-aptxhd-aptxadaptive-aac-ldac
+#Touch Improve
+touch.pressure.scale=0.001 
+persist.sys.ui.hw=1 
+view.scroll_friction=10 
+touch.size.calibration=diameter 
+touch.size.scale=1 
+touch.size.bias=0 
+touch.size.isSummed=0 
+touch.pressure.scale=0.001 
+touch.orientation.calibration=none 
+touch.distance.calibration=none 
+touch.distance.scale=0 
+touch.coverage.calibration=box 
+touch.gestureMode=spots 
+MultitouchSettleInterval=1ms 
+MultitouchMinDistance=1px 
+TapInterval=1ms 
+TapSlop=1px
+#Touchfeature
+ro.vendor.touchfeature.gamemode.enable=true
+
